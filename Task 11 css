@@ -1,0 +1,10 @@
+.external {
+
+    background-color: lightgreen;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid green;
+}
+body{
+    background-color: blue;
+}
